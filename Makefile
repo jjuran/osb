@@ -59,7 +59,7 @@ var-run-skif:
 exhibiting: bin/raster bin/uunix bin/exhibit MacRelix bin/telecast-send
 
 interacting: exhibiting bin/interact
-displaying:  exhibiting bin/vraster
+displaying:  exhibiting bin/display
 
 open-MacRelix: MacRelix
 	@open MacRelix.app
